@@ -2,6 +2,8 @@
 
 import UIKit
 
+var rango = 0...100
+
 // Iteración del rango
 for rango in 0...100 {
     
